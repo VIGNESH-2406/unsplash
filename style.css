@@ -1,0 +1,23 @@
+.avatar {
+  height: 600px;
+  width: 500px;
+  border-radius: 2rem;
+  /* display: flex;
+  justify-content: space-around; */
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+.infoContainer {
+  background-color: lavender;
+  border-radius: 1rem;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 10px;
+}
+.content {
+}
